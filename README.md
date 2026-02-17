@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Othmane EL OUADIFI - Data Scientist and AI Developer" width="100%" />
+</p>
+
 # Hi there, Welcome! 👋
 
 ## About Me
