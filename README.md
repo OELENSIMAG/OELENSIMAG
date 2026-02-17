@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/856520ad-01f3-4bb6-95a1-562d25f8fd0c" alt="Othmane EL OUADIFI - Data Scientist and AI Developer" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Othmane EL OUADIFI - Data Scientist and AI Developer" width="100%" />
 </p>
 
 # Hi there, Welcome! 👋
